@@ -1,4 +1,4 @@
-### Hi there 👋
+### Aloha 👋
 
 
 - 🔭 I’m currently working on a backend nodejs project and on a frontend app
