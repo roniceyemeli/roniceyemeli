@@ -15,3 +15,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roniceyemeli&langs_count=8&layout=compact)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=roniceyemeli&theme=dark&hide_border=true)
+
+<img src="https://profile-counter.glitch.me/roniceyemeli/count.svg" />
