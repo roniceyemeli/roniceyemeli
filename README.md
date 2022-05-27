@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**roniceyemeli/roniceyemeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a backend nodejs project and on a frontend app
+- 🌱 I’m currently learning graphql and advanced tools within git
+- 👯 I’m looking to collaborate on javascript, typescript
+- 🤔 I’m looking for help with debugging, tips, personnal advise that can me make grow professionally
+- 💬 Ask me about anything related to programming
+- 📫 How to reach me: roniceyemeli@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I don't know how to swim 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roniceyemeli&show_icons=true&theme=radical&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roniceyemeli&langs_count=8&layout=compact)
