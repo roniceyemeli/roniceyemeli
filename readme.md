@@ -1,7 +1,7 @@
-<h1 align="left">Aloha 👋, I'm Ronice Web developer currently based in Tunisia</h1>
+<h1 align="left">Aloha 👋, I'm Ronice Web developer</h1>
 
 
-<p align='left'> 🔭 I’m currently working on a backend nodejs project and on a frontend app </p>
+<p align='left'> 🔭 I’m currently working on a ERP app </p>
 <p align='left'>🌱 I’m currently reading a book about Next.js</p>
 <p align='left'>💬 Ask me about anything related to programming and resilience</p>
 <p align='left'>😄 Pronouns: he/him</p>
