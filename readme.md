@@ -1,20 +1,26 @@
-### Aloha 👋
+<h1 align="left">Aloha 👋, I'm Ronice Web developer currently based in Tunisia</h1>
 
 
-- 🔭 I’m currently working on a backend nodejs project and on a frontend app
-- 🌱 I’m currently learning graphql and advanced tools within git
-- 👯 I’m looking to collaborate on tech, advocacy 
-- 🤔 I’m looking for help with debugging, tips, personnal advise that can me make grow professionally
-- 💬 Ask me about anything related to programming and resilience
-- 📫 How to reach me: roniceyemeli@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I don't know how to swim 
+<p align='left'> 🔭 I’m currently working on a backend nodejs project and on a frontend app </p>
+<p align='left'>🌱 I’m currently reading a book about Next.js</p>
+<p align='left'>💬 Ask me about anything related to programming and resilience</p>
+<p align='left'>😄 Pronouns: he/him</p>
+<p align='left'>⚡ Fun fact: I don't know how to swim </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roniceyemeli&show_icons=true&theme=radical&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roniceyemeli&langs_count=8&layout=compact)
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=roniceyemeli&theme=xcode"> -->
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=roniceyemeli&theme=dark&hide_border=true)
 
-### visitor count
-<img src="https://profile-counter.glitch.me/roniceyemeli/count.svg" />
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=roniceyemeli&show_icons=true&theme=radical"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=roniceyemeli&theme=dark"> |
+| :----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roniceyemeli&langs_count=8&layout=compact" /> | <p align="center"> Visitor count</p><img align="center" src="https://profile-counter.glitch.me/roniceyemeli/count.svg" /> |
+| :----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
+
+<p align="center" > Let's connect on 👇🏻 </p>
+   
+<p align="center">
+  <a href="https://www.linkedin.com/in/roniceyemeli/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://twitter.com/roniceyemeli"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="mailto:roniceyemeli@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
