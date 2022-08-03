@@ -1,9 +1,9 @@
-<h1 align="left">Aloha 👋, I'm Ronice, from cameroon living in Tunisia</h1>
+<h1 align="left">Aloha 👋, I'm Ronice</h1>
 
 
-<p align='left'> 🔭 I’m currently working on a ERP app </p>
-<p align='left'>💬 Ask me about anything related to programming and resilience</p>
 <p align='left'>😄 Pronouns: he/him</p>
+<p align='left'>💬 Ask me about anything related to programming and resilience</p>
+<p align='left'> 🔭 I’m currently working on a ERP app </p>
 <p align='left'>⚡ Fun fact: I don't know how to swim </p>
 
 
