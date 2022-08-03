@@ -1,4 +1,4 @@
-<h1 align="left">Aloha 👋, I'm Ronice Web developer</h1>
+<h1 align="left">Aloha 👋, I'm Ronice, from cameroon living in Tunisia</h1>
 
 
 <p align='left'> 🔭 I’m currently working on a ERP app </p>
