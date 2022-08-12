@@ -7,7 +7,7 @@
 <p align='left'>⚡ Fun fact: I don't know how to swim </p>
 
 
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=roniceyemeli&theme=xcode"> -->
+<img src="https://activity-graph.herokuapp.com/graph?username=roniceyemeli&theme=xcode">
 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=roniceyemeli&show_icons=true&theme=radical"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=roniceyemeli&theme=dark"> |
