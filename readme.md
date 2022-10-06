@@ -4,7 +4,7 @@
 <p align='left'>😄 Pronouns: he/him</p>
 <p align='left'>💬 Let's talk about basketball and  resilience</p>
 <p align='left'> 🔭 I’m currently improving my skills in Nextjs </p>
-<p align='left'> - 👯 I’m looking to collaborate with other developer </p>
+<p align='left'> - 👯 I’m looking to collaborate with other developers </p>
 <p align='left'>⚡ Fun fact: I don't know how to swim </p>
 
 
