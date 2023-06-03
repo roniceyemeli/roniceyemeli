@@ -8,7 +8,7 @@
 <p align='left'>⚡ Fun fact: I don't know how to swim </p>
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=roniceyemeli&custom_title=This%20is%20a%20title&hide_border=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roniceyemeli&custom_title=This%20is%20a%20title&hide_border=true&theme=react">
 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=roniceyemeli&show_icons=true&theme=radical"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=roniceyemeli&theme=dark"> |
