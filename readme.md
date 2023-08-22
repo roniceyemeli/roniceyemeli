@@ -11,10 +11,10 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=roniceyemeli&custom_title=Contributions&hide_border=true&theme=react">
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=roniceyemeli&show_icons=true&theme=radical"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=roniceyemeli&theme=dark"> |
+| ![roniceyemeli's Stats](https://github-readme-stats.vercel.app/api?username=roniceyemeli&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) | ![roniceyemeli's Streak](https://github-readme-streak-stats.herokuapp.com/?user=roniceyemeli&theme=vue-dark&hide_border=true) |
 | :----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roniceyemeli&langs_count=8&layout=compact" /> | <p align="center"> Visitor count</p><img align="center" src="https://profile-counter.glitch.me/roniceyemeli/count.svg" /> |
+| ![roniceyemeli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roniceyemeli&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) | <p align="center"> Visitor count</p><img align="center" src="https://profile-counter.glitch.me/roniceyemeli/count.svg" /> | 
 | :----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
 
 <p align="center" > Let's connect on 👇🏻 </p>
