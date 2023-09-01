@@ -11,7 +11,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=roniceyemeli&custom_title=Contributions&hide_border=true&theme=react">
 
 
-| ![roniceyemeli's Stats](https://github-readme-stats.vercel.app/api?username=roniceyemeli&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) | ![roniceyemeli's Streak](https://github-readme-streak-stats.herokuapp.com/?user=roniceyemeli&theme=vue-dark&hide_border=true) |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roniceyemeli&include_all_commits=true&theme=vue-dark) | ![roniceyemeli's Streak](https://github-readme-streak-stats.herokuapp.com/?user=roniceyemeli&theme=vue-dark&hide_border=true) |
 | :----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
 
 | ![roniceyemeli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roniceyemeli&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) | <p align="center"> Visitor count</p><img align="center" src="https://profile-counter.glitch.me/roniceyemeli/count.svg" /> | 
