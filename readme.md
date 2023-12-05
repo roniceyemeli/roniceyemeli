@@ -3,7 +3,7 @@
 
 <p align='left'>😄 Pronouns: he/him</p>
 <p align='left'>💬 Let's talk about basketball and  resilience</p>
-<p align='left'> 🔭 I’m currently preparing for AWS DevOps Engineer </p>
+<p align='left'> 🔭 I’m currently preparing for AWS DevOps Engineer certification </p>
 <p align='left'> - 👯 I’m looking for new opportunities </p>
 <p align='left'>⚡ Fun fact: I don't know how to swim </p>
 
